@@ -24,9 +24,8 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 
 # > Claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 
 # > Microsoft Copilot
 DOMAIN,copilot.microsoft.com
